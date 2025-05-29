@@ -27,9 +27,4 @@ This project highlights a book using NeoPixel LEDs when a user searches for the 
 - neopixel (Adafruit WS281x Python library)
 - RPi.GPIO or board for pin access
 
-## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/led-highlighter.git
-   cd led-highlighter

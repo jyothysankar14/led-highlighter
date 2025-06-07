@@ -1,0 +1,22 @@
+{
+    "Signals and Systems": {
+        "led_index": 2,
+        "subject": "signals"
+    },
+    "Linear Integrated Circuits": {
+        "led_index": 5,
+        "subject": "lic"
+    },
+    "Control Systems": {
+        "led_index": 10,
+        "subject": "control"
+    },
+    "Microwaves and Antennas": {
+        "led_index": 15,
+        "subject": "microwaves"
+    },
+    "Wireless Communication": {
+        "led_index": 20,
+        "subject": "wireless"
+    }
+}
